@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there ,I'm Angel!👋
+### About Me
+     Learning pyhton development and software tools
+     transitioninh skills into workforce solutions, HR operations,and technology
+### Current projects
+     ### 🛠️ Current Projects
+- 📅 *[Student Study Planner](https://github.com)* - A Python application featuring local data storage to track student assignments and completion status
 
 <!--
 **AngelB1109/AngelB1109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
